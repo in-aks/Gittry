@@ -1,3 +1,3 @@
 # Gittry
 Learning about Git Hub 
-By Amit 
+By Amit S
